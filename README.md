@@ -2,11 +2,6 @@
 [![Open in GitHub Pages](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge)](https://mohamadsd2002.github.io/login-page-reactjs/)
 
 
-<h2>🚀 Live Demo</h2>
-<a href="https://mohamadsd2002.github.io/login-page-reactjs/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Demo-%F0%9F%9A%80-blue?style=for-the-badge" alt="Live Demo">
-</a>
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
